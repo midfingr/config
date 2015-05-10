@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://drive.jolicloud.com/"
+      },
+      "urls": [ "*://*.jolicloud.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "drive-icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/hcRKxQ9I/v7AG8Y9dldEv/Q7gVTTGwun7HItpxRlphuAzjYjnNp/9a/6PpoXkctb88m5WGBXXK2CKEpnbFuvKQfYieIhfyYkDGl12Bs69VJ90TvmrYduEYtZm4m/hojZfllqgsItaRlCKGKqfu2Abnwx1lybFmnTSdeKBY1DJwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0"
+}

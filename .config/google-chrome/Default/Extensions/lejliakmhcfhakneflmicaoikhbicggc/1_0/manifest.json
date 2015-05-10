@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://www.blogger.com/"
+      },
+      "urls": [ "*://google.com/blogger", "http://www.blogger.com/" ]
+   },
+   "description": "Blogger makes it simple to post text, photos and video onto your personal or team blog.",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMTIQrnf3HBucDaigNhYWstuA+/Mb45hQC+cu4k7DgJHA1hCLFDfin69/buRz3Mh1Q0odNtcmqAOwDonPBJ7JzpxH3NNllw18idxOBuRWbf3V6S6bPQLJ7C4AYHQoklxJZA1p2/VnBb7wMzHqSTowoG/VMnQfQivNvRFgCU7zZ6QIDAQAB",
+   "name": "Blogger",
+   "options_page": "http://www.google.com/support/blogger/",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

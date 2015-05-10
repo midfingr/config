@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html class="scroll-v">
+<head>
+    <meta charset="utf-8">
+    <title>TweetDeck</title>
+    <meta name="application-name" content="TweetDeck">
+    <meta name="description" content="TweetDeck is your personal browser for staying in touch with what’s happening now.">
+    <meta name="google-site-verification" content="iRydaBWEj10Hm3eYAzcLGzq1Rc8TV_OesotK-wzhfbw">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1"> <!-- Enable Chrome Frame -->
+    <meta http-equiv="Default-Style" content="dark">
+    <!-- CSS -->
+    <link rel="stylesheet" href="/web/css/font.css">
+    <link rel="stylesheet" href="/web/css/app-dark.css" title="dark">
+    <link rel="stylesheet" href="/web/css/app-light.css" title="light">
+    <!-- Icons -->
+    <link rel="shortcut icon" href="/web/assets/logos/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="/web/assets/logos/ios-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/web/assets/logos/ios-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/web/assets/logos/ios-icon-iphone@2x.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/web/assets/logos/ios-icon-ipad@2x.png">
+</head>
+<body class="scroll-v">
+
+    <audio style="display:none" preload="auto" id="update-sound" autobuffer>
+        <source src="/web/assets/sounds/tweet.mp3" type="audio/mp3">
+        <source src="/web/assets/sounds/tweet.ogg" type="audio/ogg">
+    </audio>
+
+    <div class="js-app-loading">
+        <div class="ovl-plain txt-center block">
+            <div class="ovl-block sign-in">
+                <div class="js-signin-ui txt-center block">
+                    <img src="/web/assets/global/backgrounds/spinner_blue.gif" alt="Loading&hellip;" class="spinner-centered">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="js-message-banner message-banner is-hidden"></div>
+    <div class="js-app application is-hidden"></div>
+    <div class="js-modals-container"></div>
+
+    <script src="/web/assets/assets_overlay.js"></script>
+
+    <script src="/web/scripts/default.js"></script>
+
+
+
+
+
+
+
+    <script data-main="/web/scripts/swift/app/main.js" src="/web/scripts/lib/bower_components/requirejs/require.js"></script>
+</body>
+</html>

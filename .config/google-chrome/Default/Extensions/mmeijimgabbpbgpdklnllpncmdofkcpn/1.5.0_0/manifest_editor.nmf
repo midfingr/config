@@ -1,0 +1,7 @@
+{
+  "program": {
+    "x86-32": { "url": "_platform_specific/x86-32/castify_edit_main-x86-32.nexe" },
+    "x86-64": { "url": "_platform_specific/x86-64/castify_edit_main-x86-64.nexe" },
+    "arm": { "url": "_platform_specific/arm/castify_edit_main-arm.nexe" }
+  }
+}

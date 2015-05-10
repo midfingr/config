@@ -1,0 +1,200 @@
+{
+   "checksum": "bda689a941aacd0ca4c3f94417245bf9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13075511100597082",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_c9e64013a4fab575",
+               "stars.isSynced": "true"
+            },
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "date_added": "13049493964222438",
+            "id": "9",
+            "meta_info": {
+               "stars.id": "ssc_a922c5c24a2e538a",
+               "stars.imageData": "Cg4yYWh2Y1VCMHZGRktfTRJQCkhodHRwczovL2QxMXhkeXpyMGRpdjU4LmNsb3VkZnJvbnQubmV0L3N0YXRpYy92ZWN0b3JfdHV4Ljg2NGU2Y2RjYzIzZS5wbmcQ1ggYnwgaYwpbaHR0cDovL3QxLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcVZQZXNBanZRU1dtc2x6UkIxUHB3SkhNVEdUbXktVjBYU1ZrNkoxTG9ldW1xbnloYxDmARjbASIQCAEQ5gEY2wFCBhIEkgIAgCixkZqtiOXFAg==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5JeUo2ZE5jX2lib0gwTQ=="
+            },
+            "name": "Arch Linux",
+            "type": "url",
+            "url": "https://www.archlinux.org/"
+         }, {
+            "date_added": "13051318336220982",
+            "id": "10",
+            "meta_info": {
+               "stars.id": "ssc_8d4f4442373434d9",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5scHlrcnBfa2hLOHBlTQ=="
+            },
+            "name": "ArchWiki",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13069732354016000",
+            "id": "11",
+            "meta_info": {
+               "stars.id": "ssc_04ade4d72da4e2c1",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5EbURFR3lBSHd5OHBVTQ==",
+               "stars.type": "2"
+            },
+            "name": "AUR",
+            "type": "url",
+            "url": "https://aur.archlinux.org/"
+         }, {
+            "date_added": "13049103370915000",
+            "id": "12",
+            "meta_info": {
+               "stars.id": "ssc_052f474cc8933c3a",
+               "stars.imageData": "Cg53bWpRREdLMTVPYVVOTRJeCldodHRwOi8vYS5mc2RuLmNvbS9jb24vYXBwL3Byb2ovYXJjaG1pZGZpbmdyL3NjcmVlbnNob3RzL2FyY2hfbWlkZmluZ3JfanVsMTYuanBnLzE4Mi8xMzcQkQEYbRpiCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1RRYkplRlhxdjNob2xEeEhXZHQ0TEF1RGRab0xiQ3lpcHk4MUZOakNlSUV5STlOTUgxEJEBGG0iDwgBEJEBGG1CBhIEAAF8fSj++sqi5enMAg==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ej1Eb3dubG9hZCBhcmNoX21pZGZpbmdyLiBDdXN0b20gQXJjaCBMaW51eCBMaXZlIENEIEluc3RhbGxhYmxlIg5iT0VOMTJpOWNtTjc2TQ==",
+               "stars.type": "2"
+            },
+            "name": "arch_midfingr",
+            "sync_transaction_version": "4",
+            "type": "url",
+            "url": "http://sourceforge.net/projects/archmidfingr/"
+         }, {
+            "date_added": "13075428361471000",
+            "id": "13",
+            "meta_info": {
+               "stars.id": "ssc_4c0e471d3732d91d",
+               "stars.isSynced": "true",
+               "stars.pageData": "EjdEb3dubG9hZCBMaW51eEdULiBDdXN0b20gSW5zdGFsbGFibGUgQXJjaCBMaW51eCBMaXZlIENEIg5zaGVBcXM1YU5MX0lXTQ==",
+               "stars.type": "2"
+            },
+            "name": "LinuxGT",
+            "type": "url",
+            "url": "http://sourceforge.net/projects/linuxgt/?source=directory"
+         }, {
+            "date_added": "13049261588698638",
+            "id": "14",
+            "meta_info": {
+               "stars.id": "ssc_91a4f47bfbd533c9",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5KdmFBeUxmVFhCVk4tTQ=="
+            },
+            "name": "drm-cops forum",
+            "type": "url",
+            "url": "http://drmcops.punbb-hosting.com/"
+         }, {
+            "date_added": "13059196506326400",
+            "id": "15",
+            "meta_info": {
+               "stars.id": "ssc_9a73df128ef38b18",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig53WWM4OFYwRnRXRVZFTQ==",
+               "stars.type": "2"
+            },
+            "name": "Evo/Lution Linux",
+            "type": "url",
+            "url": "http://www.evolutionlinux.com/forums/"
+         }, {
+            "date_added": "13064044365886628",
+            "id": "16",
+            "meta_info": {
+               "stars.id": "ssc_accef1d76374a612",
+               "stars.imageData": "Cg5rMlIwVy00WEZnUWZMTRJqCmJodHRwczovL21haWwudGVrc2F2dnkuY29tLy0uLl8uXy4tLS4uXzEzNjg4MjQ4NTkvd2VibWFpbC9jbGllbnQvc2tpbnMvZGVmYXVsdC9pbWFnZXMvbG9nby9sb2dvLnBuZxC0ARi0ARpiCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JadGViVWYyVzhoWGNnQzMxLTVTT1h0TTUyaG1zb1FLRlQ2Zy1Bb3ZYTlJ4X0JuMHRNEIwBGFEiHggBEIwBGFEgsCBCBhIEgAAAAEoKaW1hZ2UvanBlZw==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5LTndGV3pza3dvYlVKTQ==",
+               "stars.type": "2"
+            },
+            "name": "WebMail",
+            "type": "url",
+            "url": "https://mail.teksavvy.com/webmail/"
+         }, {
+            "date_added": "13065417988727347",
+            "id": "17",
+            "meta_info": {
+               "stars.id": "ssc_4c21e942e1c8ed92",
+               "stars.imageData": "Cg5SbExDVWlBSmFYck5jTRJHCkBodHRwczovL2lwdjQuZ29vZ2xlLmNvbS9zb3JyeS9pbWFnZT9pZD01MjAzODUzNjQ0OTYzNzE1NjQ5JmhsPWVuEMoBGEgaYgpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NSZDFBTThRcFdiZVY2XzY0Mmpmb1p1bDZLTWpJb2R4aU1QaS11NnpYUHZOOUM2YS1xRRCgARg4Ih4IARCgARg4IPETQgYSBJdRfgBKCmltYWdlL2pwZWc=",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5jT1h5MnlnQmRiN2ZnTQ==",
+               "stars.type": "2"
+            },
+            "name": "Google",
+            "type": "url",
+            "url": "https://encrypted.google.com/"
+         }, {
+            "date_added": "13069727869093000",
+            "id": "18",
+            "meta_info": {
+               "stars.id": "ssc_040f389f2a6114fd",
+               "stars.imageData": "Cg5fOFhWSGJBZDlVWnZnTRJACjpodHRwczovL2F2YXRhcnMwLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzI5NDEzOTE/dj0zJnM9NDAwEFAYUBphCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1NjUGdsX1lmcXVPbHdLdjVqWUE0UGNiTzJET0F2UlBxNHZFa2l0dUNPeWFRdUR0WFNWEFAYUCIOCAEQUBhQQgYSBIACAP8o9bbCyL6AzQI=",
+               "stars.isSynced": "true",
+               "stars.pageData": "EkttaWRmaW5nciBoYXMgMTUgcmVwb3NpdG9yaWVzIHdyaXR0ZW4gaW4gU2hlbGwuIEZvbGxvdyB0aGVpciBjb2RlIG9uIEdpdEh1Yi4iDjhDN2ROWkZpUWdqLWNN",
+               "stars.type": "2"
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/midfingr"
+         }, {
+            "date_added": "13069804297221000",
+            "id": "19",
+            "meta_info": {
+               "stars.id": "ssc_408e3192505ed53a",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5Rd1dvMC0tNjVGamdOTQ==",
+               "stars.type": "2"
+            },
+            "name": "Evo/Lution CLI-Lution",
+            "type": "url",
+            "url": "http://sourceforge.net/projects/evolutionlinux/files/CLI-Lution-alpha/"
+         }, {
+            "date_added": "13070069552009114",
+            "id": "20",
+            "meta_info": {
+               "stars.id": "ssc_4b38b7d2c7fcb229",
+               "stars.isSynced": "true"
+            },
+            "name": "midfingr - Google+",
+            "type": "url",
+            "url": "https://plus.google.com/u/0/b/103608378037233841215/+midfingr/posts"
+         }, {
+            "date_added": "13070875440923000",
+            "id": "21",
+            "meta_info": {
+               "stars.id": "ssc_040adcceeeef9c69",
+               "stars.imageData": "Cg50MjhtREYySUVITGNtTRI/CjdodHRwOi8va2FtcmFkZXMuY29tL2F1dHVtbl9pbl9yaXNlbi9hdXR1bW5faW5fcmlzZW4uanBnEIMCGMMBGmMKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUkN5aVRhUUJyMU5VS3hnMU5MTHZxaTNtRjUyTW1BZ3BYQ1ozbE9IZUgxZzV4SWRyYWEQgwIYwwEiHwgBEIMCGMMBIOlWQgYSBAMB/2lKCmltYWdlL2pwZWc=",
+               "stars.isSynced": "true",
+               "stars.pageData": "EilUaGUgb2ZmaWNpYWwgRGVlcCBTaWx2ZXIgY29tbXVuaXR5IGZvcnVtLiIOQURiNzdqcWtUOTZPb00=",
+               "stars.type": "2"
+            },
+            "name": "Some MODs for Risen",
+            "type": "url",
+            "url": "http://forum.deepsilver.com/forum/showthread.php/52036-Some-MODs-for-Risen?s=633daa9dd264ba2708981c4d67cd7fb4"
+         } ],
+         "date_added": "13075762443404606",
+         "date_modified": "13075762446207901",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13075762443404617",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "4",
+      "synced": {
+         "children": [  ],
+         "date_added": "13075762443404618",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

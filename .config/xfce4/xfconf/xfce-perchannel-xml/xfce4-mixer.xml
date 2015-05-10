@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-mixer" version="1.0">
+  <property name="sound-card" type="string" value="HDAATISBAlsamixer"/>
+  <property name="sound-cards" type="empty">
+    <property name="HDAATISBAlsamixer" type="array">
+      <value type="string" value="Master"/>
+      <value type="string" value="Headphone"/>
+      <value type="string" value="PCM"/>
+      <value type="string" value="Front"/>
+      <value type="string" value="Line-in"/>
+      <value type="string" value="IEC958 Default PCM"/>
+      <value type="string" value="Capture"/>
+    </property>
+  </property>
+  <property name="window-height" type="int" value="787"/>
+  <property name="window-width" type="int" value="1199"/>
+</channel>

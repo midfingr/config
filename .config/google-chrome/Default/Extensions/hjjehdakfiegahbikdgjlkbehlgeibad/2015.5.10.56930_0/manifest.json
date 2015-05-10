@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.google.com/adsense/app?hl=en_US#home"
+      }
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "5wdW17lWl/f8y4TWJaV8UuSzHbUGI79iKjO4rGxEi/8=",
+   "name": "https://www.google.com/adsense/app?hl=en_US#h",
+   "version": "2015.5.10.56930"
+}

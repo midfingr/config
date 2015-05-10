@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    
+    <title></title>
+      <link rel="stylesheet" href="main.css">
+  </head>
+
+
+    
+    
+    <body data-ng-app="castifyExt.PopupApp" data-ng-csp="" ng-strict-di="" class="ng-cloak popup">
+    
+
+    <div class="menu-btn" dropdown="" is-open="isAppMenuOpen">
+        <button type="button" class="btn dropdown-toggle" dropdown-toggle="" aria-label="Open Menu">
+            <span class="wbIcon-appbar-black"></span>
+        </button>
+        <cf-app-menu open-in-app-tab=""></cf-app-menu>
+    </div>
+    <div class="view" data-ng-view="" ng-hide="isAppMenuOpen"></div>
+
+
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.min.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+    <script src="components/analytics-hack/analytics.min.js"></script>
+
+    <script src="components/popupapp.js"></script>
+  </body>
+</html>
