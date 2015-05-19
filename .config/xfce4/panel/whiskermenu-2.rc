@@ -1,7 +1,7 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,firefox.desktop,google-chrome.desktop
 recent=firefox.desktop,google-chrome.desktop,weather.desktop,sun_java-jre8.desktop,xfce4-clipman.desktop
 button-title=Applications
-button-icon=chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default.svg
+button-icon=distributor-logo-archlinux
 button-single-row=false
 show-button-title=false
 show-button-icon=true
